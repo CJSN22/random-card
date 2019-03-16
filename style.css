@@ -1,0 +1,35 @@
+.container {
+   background-color: green;
+}
+
+.card {
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.top-card {
+    float: left;
+    padding: 15px;
+    font-size: 80px;
+    color: red;
+}
+
+.number {
+    font-size: 180px;
+    padding-top: 40%;
+}
+
+.bottom-card {
+    float: right;
+    padding: 15px;
+    font-size: 80px;
+    color: red;
+    padding-bottom: 14%;
+    transform: rotate(180deg);
+    
+}
