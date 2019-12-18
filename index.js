@@ -12,7 +12,6 @@ window.onload = () => {
      
     let emptyArray = []
     
-    
     emptyArray.push(numberArray[Math.floor(Math.random() * numberArray.length)]);
     emptyArray.push(suitArray[Math.floor(Math.random() * suitArray.length)]);
     
